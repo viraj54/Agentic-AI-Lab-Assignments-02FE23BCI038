@@ -11,8 +11,6 @@ This repository contains all 14 labs and 28 assignments from the supplied **Agen
 - [Node graphs and architecture](docs/ARCHITECTURE.md)
 - [Course project report in Word](docs/Course_Project_Report.docx)
 - [Course project report in Markdown](docs/Course_Project_Report.md)
-- [Final integrated project source and complete output](project/PROJECT_COMPLETE.md)
-- [GitHub upload instructions](docs/GITHUB_UPLOAD.md)
 
 ## Run everything
 
