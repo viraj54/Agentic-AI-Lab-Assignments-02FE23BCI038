@@ -21,7 +21,6 @@ python run_all.py
 python -m unittest discover -s tests -v
 ```
 
-Delivered verification: **57/57 program runs**, **25/25 independent requirement tests**, and **19/19 integrated project evaluation cases** passed. Captures were produced with Python 3.12.14. Dates and timestamps in logs may change on rerun. Expected failing feature tests in the Lab 11 deliberate-bug demonstration confirm that the test gate catches the mutation.
 
 To rebuild the readable full-code records after rerunning or editing code:
 
