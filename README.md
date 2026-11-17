@@ -1,9 +1,8 @@
 # Agentic AI Lab Assignments
 
 **SRN: 02FE23BCI038**  
-**Requested repository: https://github.com/02FE23BCI038/Agentic-AI-Lab-Assignments**
 
-This repository contains all 14 labs and 28 assignments from the supplied **Agentic AI Systems Lab Guide**, separate solutions for both assignments in each lab, combined solutions, actual console outputs, and the **Campus Agent Hub** integrated course project.
+This repository contains all 14 labs and 28 assignments from the supplied **Agentic AI Systems Lab Guide**, separate solutions for both assignments in each lab, combined solutions, actual console outputs.
 
 ## Start here
 
