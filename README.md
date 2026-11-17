@@ -57,14 +57,3 @@ python project/integrated_project.py
 | 13 | Engineering Agents | [Electrical and mechanical agents](labs/lab_13/README.md) |
 | 14 | Capstone Project Studio | [Skill routing and adversarial tests](labs/lab_14/README.md) |
 
-Every `labs/lab_XX` folder contains `reference.py`, `assignment_1.py`, `assignment_2.py`, `combined.py`, four corresponding files in `outputs/`, and a README embedding all four full programs and outputs in that order.
-
-The project folder contains the final orchestration program, its complete source-and-output record, and machine-readable responses, prompt logs, execution traces, evaluation results, runtime audits, and governance audits. The `.github/workflows/verify.yml` file reruns programs and tests after a GitHub push.
-
-## Scope and attribution
-
-The supplied guide is retained at [docs/reference/Agentic_AI_Lab_Guide.docx](docs/reference/Agentic_AI_Lab_Guide.docx). Original reference programs were extracted from it without edits. Assignment extensions and the final integration are added separately. The report describes the implementation and observed test results; it does not claim a real deployment.
-
-All source records, event data, research findings, engineering readings, approvals, deployments, and external services are classroom simulations. Drafts are never sent. Research figures in Lab 9 are synthetic fixtures, not verified publications. Memory is in-process; JSON outputs are exported evidence rather than a live database. The engineering thresholds are illustrative.
-
-The requested URL works only when the GitHub account or organization owner is `02FE23BCI038`. The ZIP is prepared for upload; it does not create the remote repository.
